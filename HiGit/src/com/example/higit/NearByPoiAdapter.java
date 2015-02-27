@@ -1,15 +1,3 @@
-/**
- * NearByPoiAdapter.java
- * com.example.higit
- *
- * Function£∫ TODO 
- *
- *   ver     date      		author
- * ©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§©§
- *   		 2015ƒÍ2‘¬27»’ 		FengZhe
- *
- * Copyright (c) 2015, Shanghai Changxing Information Technology Co., Ltd. All Rights Reserved.
- */
 
 package com.example.higit;
 
@@ -31,7 +19,7 @@ import android.widget.TextView;
 /**
  * ClassName:NearByPoiAdapter
  * 
- * @author ∑Ô’‹
+ * @author Vincent Feng
  */
 public class NearByPoiAdapter extends BaseAdapter implements OnClickListener {
 
